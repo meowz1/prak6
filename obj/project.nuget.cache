@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dL/NOXjk4qNjB/7wrYHn6ZFaQ+5+Bpp2k4aXd3CZYK/UGtbuu71aQWkn0LONgyztycOYA80mK1SVNRkVN/0WnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kliker\\Source\\Repos\\Chat\\Chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kliker\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\kliker\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\kliker\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
